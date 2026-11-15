@@ -4,24 +4,27 @@
 
 **户外媒体（OOH）点位数字化管理平台**
 
-OMAPS 覆盖点位资源、订单投放、派单上刊、完工报告全流程，PC 管理后台与移动端现场作业双端协同，把点位台账、排期、投放与结算放进同一套系统。
+OMAPS 覆盖点位资源、订单投放、派单上刊、完工报告全流程，并提供客户经营、协作工单、财务结算与人力考勤等中后台能力，PC 管理后台与移动端现场作业双端协同，把点位台账、排期、投放与结算放进同一套系统。
 
 ## 产品能力
 
 | 模块 | 内容 |
 |---|---|
 | 点位与地图 | 经纬度落位、空位按区域/规格/档期高亮、框选片区算容量、点位包成组上地图、实景照片挂到点位 |
-| 投放流程 | 选点 → 锁点（排期锁定防撞单）→ 派单上刊 → 完工报告（自动生成 PPT 并打包原图） |
-| 业务中台 | 客户档案、商机跟进、销售与采购合同、统一审核中心、经营报表、作业量与考勤 |
+| 投放流程 | 选点 → 锁点（排期锁定防撞单）→ 派单上刊 → 完工报告（自动生成 PPT 并打包原图）；LED 数字屏支持全量轮播清单按版本整体下发到租户自接的播控系统 |
+| 客户经营 | 客户报备（撞单保护、有效期占用与到期释放）、公海池、客户跟进记录、商机跟进、销售业绩季度聚合与月环比/年同比 |
+| 业务中台 | 协作工单（跨部门发起→受理→完成→关闭，SLA 超时扫描与看板）、销售与采购合同、合同变更单、提成规则配置、统一审核中心、经营报表 |
 | 财务结算 | 请款与逾期标记、到款与划拨、发票、提成核算、客户对账、会计期间与结转 |
-| 移动端作业 | 微信小程序 / 独立 App：任务接收、GPS 签到、拍照水印、断网补传 |
+| 人力管理 | 组织架构、员工档案（入职登记、离职/调动流程）、班次模板与月度排班（排班×派单联动）、考勤打卡与月报、保险台账 |
+| 移动端作业 | 微信小程序 / 独立 App：任务接收、GPS 签到、拍照水印、断网补传、考勤打卡（定位+围栏+补卡）、任务到期提醒 |
 | AI Copilot | 基于 AgentScope 的销售助理：查可投点位、按预算拆组合、生成投放方案、口述拜访转记录 |
 
 ## 工程
 
-- **后端**：Java + Spring Boot 多模块，CQRS 命令通道、多租户数据隔离、对象级访问控制
+- **后端**：Java + Spring Boot 多模块，CQRS 命令通道（60+ 资源收口）、多租户数据隔离、对象级访问控制
 - **前端**：Vue 3 + TypeScript
 - **开放接入**：OpenAPI 接口与 MCP 协议，AI 客户端可直接调用点位与排期查询
+- **企业微信集成**：组织架构同步、打卡数据源、任务与工单通知
 - **部署形态**：SaaS（多租户）与本地部署（数据不出内网）
 
 ## 能力边界
@@ -57,24 +60,27 @@ OMAPS 覆盖点位资源、订单投放、派单上刊、完工报告全流程�
 
 **Digital management platform for out-of-home (OOH) media inventory**
 
-OMAPS covers the full OOH campaign lifecycle — inventory, order placement, dispatch and billboard posting, completion reporting — with a PC admin console and a mobile field-work app working in tandem, bringing inventory ledgers, scheduling, campaign execution and billing into a single system.
+OMAPS covers the full OOH campaign lifecycle — inventory, order placement, dispatch and billboard posting, completion reporting — plus back-office capabilities for client operations, cross-department work orders, financial settlement and HR attendance, with a PC admin console and a mobile field-work app working in tandem, bringing inventory ledgers, scheduling, campaign execution and billing into a single system.
 
 ## Product Capabilities
 
 | Module | Scope |
 |---|---|
 | Inventory & Map | Geocoded inventory placement, slot availability highlighted by region/spec/availability window, area selection with capacity estimation, inventory bundles grouped on map, site photos attached to inventory records |
-| Campaign Workflow | Site selection → slot locking (schedule locks prevent double-booking) → dispatch & posting → completion report (auto-generated PPT with original photos packaged) |
-| Business Middle Platform | Client profiles, opportunity tracking, sales & procurement contracts, unified approval center, business reports, workload & attendance |
+| Campaign Workflow | Site selection → slot locking (schedule locks prevent double-booking) → dispatch & posting → completion report (auto-generated PPT with original photos packaged); LED digital screens support versioned full-manifest delivery to the tenant's own broadcast control system |
+| Client Operations | Client registration (conflict protection, validity windows with release on expiry), public pool, client follow-up records, opportunity tracking, sales performance with quarterly aggregation and month-over-month / year-over-year comparison |
+| Business Middle Platform | Cross-department work orders (initiate → accept → complete → close, with SLA timeout scanning and kanban), sales & procurement contracts, contract change orders, commission rule configuration, unified approval center, business reports |
 | Financial Settlement | Payment requests & overdue flags, receipts & allocation, invoices, commission calculation, client reconciliation, accounting periods & carry-forward |
-| Mobile Field Work | WeChat mini program / standalone app: task receipt, GPS check-in, photo watermarking, offline capture with later sync |
+| Human Resources | Org structure, employee records (onboarding, offboarding & transfer workflows), shift templates & monthly scheduling (linked with dispatch), attendance check-in & monthly reports, insurance ledger |
+| Mobile Field Work | WeChat mini program / standalone app: task receipt, GPS check-in, photo watermarking, offline capture with later sync, attendance check-in (location + geofence + makeup), task due reminders |
 | AI Copilot | AgentScope-based sales assistant: find available inventory, build packages by budget, generate campaign proposals, turn spoken visit notes into records |
 
 ## Engineering
 
-- **Backend**: Java + Spring Boot multi-module, CQRS command pipeline, multi-tenant data isolation, object-level access control
+- **Backend**: Java + Spring Boot multi-module, CQRS command pipeline (60+ resources consolidated), multi-tenant data isolation, object-level access control
 - **Frontend**: Vue 3 + TypeScript
 - **Open Integration**: OpenAPI and MCP protocol — AI clients can query inventory and schedules directly
+- **WeCom Integration**: org structure sync, attendance data source, task & work-order notifications
 - **Deployment**: SaaS (multi-tenant) or on-premise (data stays inside the intranet)
 
 ## Scope Boundaries
