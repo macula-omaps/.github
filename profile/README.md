@@ -39,7 +39,10 @@ OMAPS 覆盖点位资源、订单投放、派单上刊、完工报告全流程�
 
 工程实践、架构与治理文档发在 [blog.omaps.cn](https://blog.omaps.cn)：
 
+- [一个 AI 项目的困局，与 AI 无关：并发、排队与错位的三个月](https://blog.omaps.cn/post/ai-app-project-retrospective/)（2026-11-15）
 - [AI 不可替代的：面向客户的主营业务流程与落地引擎](https://blog.omaps.cn/post/customer-centric-workflow-engine/)（2026-11-15）
+- [IT托管服务的升级：AI时代中小企业IT的新选择](https://blog.omaps.cn/post/shared-it-ai-era/)（2026-11-14）
+- [2027 年企业 IT 部门的方向：上下文厚度与研发范围重构](https://blog.omaps.cn/post/2027-ai-directions/)（2026-11-13）
 - [企业 AI 落地：企业上下文、内部 FDE 与场景闸门](https://blog.omaps.cn/post/enterprise-ai-landing/)（2026-11-12）
 - [AI 原生研发：产物链、门禁与度量](https://blog.omaps.cn/post/ai-native-sdlc-gates/)（2026-11-12）
 - [API 业务访问与完整性风险清单](https://blog.omaps.cn/post/api-access-integrity-risks/)（2026-11-12）
@@ -95,7 +98,10 @@ Where we don't fit, stated up front to save everyone a round of evaluation:
 
 Engineering practice, architecture and governance notes live at [blog.omaps.cn](https://blog.omaps.cn):
 
+- [The Trouble with This AI Project Had Nothing to Do with AI: Concurrency, Queuing, and Three Months of Misalignment](https://blog.omaps.cn/en/post/ai-app-project-retrospective/) (2026-11-15)
 - [What AI Cannot Replace: Customer-Facing Core Business Workflows and the Delivery Engine](https://blog.omaps.cn/en/post/customer-centric-workflow-engine/) (2026-11-15)
+- [The Upgrade of Managed IT Services: A New Option for SMB IT in the AI Era](https://blog.omaps.cn/en/post/shared-it-ai-era/) (2026-11-14)
+- [2027 Directions for Enterprise IT Teams: Context Thickness and Rethinking the Scope of Engineering](https://blog.omaps.cn/en/post/2027-ai-directions/) (2026-11-13)
 - [Enterprise AI Adoption: Organizational Context, Internal FDEs, and Scenario Gates](https://blog.omaps.cn/en/post/enterprise-ai-landing/) (2026-11-12)
 - [AI-Native Engineering: Artifact Chains, Gates, and Metrics](https://blog.omaps.cn/en/post/ai-native-sdlc-gates/) (2026-11-12)
 - [API Access and Integrity Risk Catalog](https://blog.omaps.cn/en/post/api-access-integrity-risks/) (2026-11-12)
