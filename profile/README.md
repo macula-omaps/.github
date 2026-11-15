@@ -28,7 +28,7 @@ OMAPS 覆盖点位资源、订单投放、派单上刊、完工报告全流程�
 
 先把不适配的说清楚，省一轮试错：
 
-- **以静态平面媒体为主**（大牌、候车亭、灯箱、道闸、墙体）。LED 数字屏只做排期与档期占位，**不做播放内容推送、屏体控制、播放日志回传，也不含 SSP / DSP 程序化交易对接**。
+- **以静态平面媒体为主**（大牌、候车亭、灯箱、道闸、墙体）。LED 数字屏走**播控衔接层**：管点位资产、档期、屏级容量校验与下发指令，投放审核通过后把全量轮播清单按版本整体下发到租户自接的播控系统（云桥 / 内网桥）；**不做播控引擎与屏体控制**，播放凭证 v1 以人工验收兜底，也**不含 SSP / DSP 程序化交易对接**。
 - **不做 AI 图像质检**：照片是否错刊、遮挡、翻拍，由时间地点水印、GPS 定位与人工复核判定。
 - **提成为单级比例**（划拨金额 × 比例）；多级阶梯、跨项目拆账、集团合并报表属定制评估范围。
 
@@ -81,7 +81,7 @@ OMAPS covers the full OOH campaign lifecycle — inventory, order placement, dis
 
 Where we don't fit, stated up front to save everyone a round of evaluation:
 
-- **Static OOH media first** (billboards, bus shelters, light boxes, gate barriers, wall panels). LED digital screens are supported for scheduling and availability placeholders only — **no content push, no screen control, no play-log collection, and no SSP/DSP programmatic trading integration**.
+- **Static OOH media first** (billboards, bus shelters, light boxes, gate barriers, wall panels). For LED digital screens we provide a **broadcast-control bridge layer**: inventory assets, scheduling, screen-level capacity checks, and delivery commands — once a campaign is approved, the full program manifest is pushed as a versioned whole to the tenant's own broadcast control system (cloud bridge / intranet bridge). **No broadcast engine or direct screen control** (screens and control accounts stay with the tenant); play proof in v1 relies on manual acceptance, and **no SSP/DSP programmatic trading integration**.
 - **No AI photo QA**: whether a photo shows a mis-post, occlusion, or a re-shot board is judged by time/location watermarks, GPS positioning, and human review.
 - **Single-tier commission** (allocated amount × rate); multi-tier ladders, cross-project splitting, and consolidated group reporting fall under custom evaluation.
 
