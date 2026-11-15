@@ -36,10 +36,10 @@ OMAPS 覆盖点位资源、订单投放、派单上刊、完工报告全流程�
 
 工程实践、架构与治理文档发在 [blog.omaps.cn](https://blog.omaps.cn)：
 
-- [AI 不可替代的：面向客户的主营业务流程与落地引擎](https://blog.omaps.cn/post/customer-centric-workflow-engine/)
-- [企业 AI 落地：企业上下文、内部 FDE 与场景闸门](https://blog.omaps.cn/post/enterprise-ai-landing/)
-- [AI 原生研发：产物链、门禁与度量](https://blog.omaps.cn/post/ai-native-sdlc-gates/)
-- [API 业务访问与完整性风险清单](https://blog.omaps.cn/post/api-access-integrity-risks/)
+- [AI 不可替代的：面向客户的主营业务流程与落地引擎](https://blog.omaps.cn/post/customer-centric-workflow-engine/)（2026-11-15）
+- [企业 AI 落地：企业上下文、内部 FDE 与场景闸门](https://blog.omaps.cn/post/enterprise-ai-landing/)（2026-11-12）
+- [AI 原生研发：产物链、门禁与度量](https://blog.omaps.cn/post/ai-native-sdlc-gates/)（2026-11-12）
+- [API 业务访问与完整性风险清单](https://blog.omaps.cn/post/api-access-integrity-risks/)（2026-11-12）
 
 ## 联系我们
 
@@ -89,10 +89,10 @@ Where we don't fit, stated up front to save everyone a round of evaluation:
 
 Engineering practice, architecture and governance notes live at [blog.omaps.cn](https://blog.omaps.cn):
 
-- [What AI Cannot Replace: Customer-Facing Core Business Workflows and the Delivery Engine](https://blog.omaps.cn/en/post/customer-centric-workflow-engine/)
-- [Enterprise AI Adoption: Organizational Context, Internal FDEs, and Scenario Gates](https://blog.omaps.cn/en/post/enterprise-ai-landing/)
-- [AI-Native Engineering: Artifact Chains, Gates, and Metrics](https://blog.omaps.cn/en/post/ai-native-sdlc-gates/)
-- [API Access and Integrity Risk Catalog](https://blog.omaps.cn/en/post/api-access-integrity-risks/)
+- [What AI Cannot Replace: Customer-Facing Core Business Workflows and the Delivery Engine](https://blog.omaps.cn/en/post/customer-centric-workflow-engine/) (2026-11-15)
+- [Enterprise AI Adoption: Organizational Context, Internal FDEs, and Scenario Gates](https://blog.omaps.cn/en/post/enterprise-ai-landing/) (2026-11-12)
+- [AI-Native Engineering: Artifact Chains, Gates, and Metrics](https://blog.omaps.cn/en/post/ai-native-sdlc-gates/) (2026-11-12)
+- [API Access and Integrity Risk Catalog](https://blog.omaps.cn/en/post/api-access-integrity-risks/) (2026-11-12)
 
 ## Contact
 
