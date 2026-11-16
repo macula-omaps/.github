@@ -1,6 +1,6 @@
-# 麦扑科技（OMAPS）
+# 麦朴科技（OMAPS）
 
-[中文](#麦扑科技omaps) · [English](#english) · [官网](https://www.omaps.cn) · [技术博客](https://blog.omaps.cn)
+[中文](#麦朴科技omaps) · [English](#english) · [官网](https://www.omaps.cn) · [技术博客](https://blog.omaps.cn)
 
 **户外媒体（OOH）点位数字化管理平台**
 
@@ -59,7 +59,7 @@ OMAPS 覆盖点位资源、订单投放、派单上刊、完工报告全流程�
 
 # OMAPS
 
-[中文](#麦扑科技omaps) · **English** · [Website](https://www.omaps.cn) · [Tech Blog](https://blog.omaps.cn)
+[中文](#麦朴科技omaps) · **English** · [Website](https://www.omaps.cn) · [Tech Blog](https://blog.omaps.cn)
 
 **Digital management platform for out-of-home (OOH) media inventory**
 
