@@ -1,10 +1,10 @@
-# 麦朴科技（OMAPS）
+# 麦朴科技（XOMAPS）
 
 [中文](#麦朴科技omaps) · [English](#english) · [官网](https://www.omaps.cn) · [技术博客](https://blog.omaps.cn)
 
 **户外媒体（OOH）点位数字化管理平台**
 
-OMAPS 覆盖点位资源、订单投放、派单上刊、完工报告全流程，并提供客户经营、协作工单、财务结算与人力考勤等中后台能力，PC 管理后台与移动端现场作业双端协同，把点位台账、排期、投放与结算放进同一套系统。
+XOMAPS 覆盖点位资源、订单投放、派单上刊、完工报告全流程，并提供客户经营、协作工单、财务结算与人力考勤等中后台能力，PC 管理后台与移动端现场作业双端协同，把点位台账、排期、投放与结算放进同一套系统。
 
 ## 产品能力
 
@@ -57,13 +57,13 @@ OMAPS 覆盖点位资源、订单投放、派单上刊、完工报告全流程�
 
 <a id="english"></a>
 
-# OMAPS
+# XOMAPS
 
 [中文](#麦朴科技omaps) · **English** · [Website](https://www.omaps.cn) · [Tech Blog](https://blog.omaps.cn)
 
 **Digital management platform for out-of-home (OOH) media inventory**
 
-OMAPS covers the full OOH campaign lifecycle — inventory, order placement, dispatch and billboard posting, completion reporting — plus back-office capabilities for client operations, cross-department work orders, financial settlement and HR attendance, with a PC admin console and a mobile field-work app working in tandem, bringing inventory ledgers, scheduling, campaign execution and billing into a single system.
+XOMAPS covers the full OOH campaign lifecycle — inventory, order placement, dispatch and billboard posting, completion reporting — plus back-office capabilities for client operations, cross-department work orders, financial settlement and HR attendance, with a PC admin console and a mobile field-work app working in tandem, bringing inventory ledgers, scheduling, campaign execution and billing into a single system.
 
 ## Product Capabilities
 
