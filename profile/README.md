@@ -4,7 +4,7 @@
 
 **AI + Cloud 生态公司**
 
-**Xomaps = 成长路径**：X 是 eXpansion（拓展、突破跃迁），O 是 Orbit（周期、闭环、蓄力轨道），Maps 是路径与进程——在一轮轮闭环沉淀之后持续向外突破拓展，这就是成长的路径。我们是一家助力成长的公司。
+**Xomaps = Expansion + Orbit + Maps**：X 代表突破，也代表无限可能；O 代表周期沉淀的循环；Maps 代表成长路径。麦，是时序生长、周期沉淀；朴，是守持本源、向外打开无限可能——我们相信真正的成长，是扎根蓄力之后，持续迭代，奔赴无限可能。麦朴 Xomaps，循周期生长，向边界拓展。
 
 麦朴科技（XOMAPS）以自研软件平台为底座，围绕企业 AI 落地提供场景诊断、Agent 定制、AI 原生研发与培训、云与托管 IT 服务——既是平台厂商，也是 AI 落地的亲历者：先在自己身上完成 AI Native 转型，平台与 Agent 在真实业务中每天生产运行。中英双语服务全球客户，官网 [www.xomaps.com](https://www.xomaps.com)。
 
@@ -77,7 +77,7 @@
 
 **AI + Cloud ecosystem company**
 
-**Xomaps means growth paths**: X = eXpansion (breaking through to the next stage), O = Orbit (closing the loop and building momentum), Maps = pathways and progress. Expansion after every closed orbit — that is the path of growth. We are a company that powers growth.
+**Xomaps = Expansion + Orbit + Maps**: X stands for breakthrough — and infinite possibility; O for the cycle of grounding and reflection; Maps for the growth path. We believe real growth means rooting deeply, then iterating constantly toward the infinite. 麦朴 Xomaps — grow with the seasons, expand beyond the edge.
 
 XOMAPS Technology builds its own software platform and surrounds it with enterprise AI landing services: scenario diagnosis, Agent customization, AI-native engineering enablement, and cloud & managed IT — we are both a platform vendor and a hands-on AI adopter: we completed our own AI-native transformation first, with the platform and agents running in production on our real business every day, serving clients worldwide in English and Chinese via [www.xomaps.com](https://www.xomaps.com).
 
