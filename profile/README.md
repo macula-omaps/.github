@@ -1,12 +1,24 @@
 # 麦朴科技（XOMAPS）
 
-[中文](#麦朴科技omaps) · [English](#english) · [官网](https://www.omaps.cn) · [技术博客](https://blog.omaps.cn)
+[中文](#麦朴科技omaps) · [English](#english) · [官网](https://www.xomaps.com) · [技术博客](https://blog.omaps.cn)
 
-**户外媒体（OOH）点位数字化管理平台**
+**AI + Cloud 生态公司**
 
-XOMAPS 覆盖点位资源、订单投放、派单上刊、完工报告全流程，并提供客户经营、协作工单、财务结算与人力考勤等中后台能力，PC 管理后台与移动端现场作业双端协同，把点位台账、排期、投放与结算放进同一套系统。
+麦朴科技（XOMAPS）以自研软件平台为底座，围绕企业 AI 落地提供场景诊断、Agent 定制、AI 原生研发与培训、云与托管 IT 服务——既是平台厂商，也是 AI 落地的亲历者。中英双语服务全球客户，官网 [www.xomaps.com](https://www.xomaps.com)。
 
-## 产品能力
+## 业务方向
+
+| 方向 | 内容 |
+|---|---|
+| 行业应用 | 线下资源数字化管理平台（自研），从户外媒体（OOH）行业起家：地图选点、排期锁定、派单上刊、完工报告全流程，业务、财务与人力一体化，SaaS 与私有化双形态交付 |
+| 企业 AI 落地 | 以「企业上下文 + 场景闸门」识别高价值场景，FDE 现场共创，用真实材料与真实流程验证结果 |
+| Agent 定制 | 基于 AgentScope 打造业务 Agent：销售助理、知识问答、流程协同与运营分析；OpenAPI 与 MCP 接入企业自有系统 |
+| AI 原生研发与培训 | 产物链、门禁与度量的工程化方法，让 AI 产出可复现、可验收；从高管认知到骨干实操的分层培训 |
+| 云与托管 IT | 云架构设计与迁移、SaaS 交付与私有化部署、托管运维与持续升级 |
+
+## 行业应用：线下资源数字化管理平台
+
+**线下资源数字化管理平台**，覆盖点位资源、订单投放、派单上刊、完工报告全流程，并提供客户经营、协作工单、财务结算与人力考勤等中后台能力，PC 管理后台与移动端现场作业双端协同。
 
 | 模块 | 内容 |
 |---|---|
@@ -49,23 +61,35 @@ XOMAPS 覆盖点位资源、订单投放、派单上刊、完工报告全流程�
 
 ## 联系我们
 
-- 官网 / 预约演示：<https://www.omaps.cn>
-- 商务邮箱：sales@omaps.cn
+- 官网 / 预约咨询：<https://www.xomaps.com>
+- 商务邮箱：sales@xomaps.com
 - 地址：广州市天河区金穗路 1 号邦华广场
 
 ---
 
 <a id="english"></a>
 
-# XOMAPS
+# XOMAPS Technology
 
-[中文](#麦朴科技omaps) · **English** · [Website](https://www.omaps.cn) · [Tech Blog](https://blog.omaps.cn)
+[中文](#麦朴科技omaps) · **English** · [Website](https://www.xomaps.com) · [Tech Blog](https://blog.omaps.cn)
 
-**Digital management platform for out-of-home (OOH) media inventory**
+**AI + Cloud ecosystem company**
 
-XOMAPS covers the full OOH campaign lifecycle — inventory, order placement, dispatch and billboard posting, completion reporting — plus back-office capabilities for client operations, cross-department work orders, financial settlement and HR attendance, with a PC admin console and a mobile field-work app working in tandem, bringing inventory ledgers, scheduling, campaign execution and billing into a single system.
+XOMAPS Technology builds its own software platform and surrounds it with enterprise AI landing services: scenario diagnosis, Agent customization, AI-native engineering enablement, and cloud & managed IT — we are both a platform vendor and a hands-on AI adopter, serving clients worldwide in English and Chinese via [www.xomaps.com](https://www.xomaps.com).
 
-## Product Capabilities
+## Service Directions
+
+| Direction | Scope |
+|---|---|
+| Industry Application | Offline resource digitalization platform (self-developed), born in the out-of-home (OOH) industry: map-based site selection, schedule locking, dispatch & posting, completion reporting, with CRM, finance and HR built in; delivered as SaaS or on-premise |
+| Enterprise AI Landing | Identifying high-value scenarios through "organizational context + scenario gates", with Forward-Deployed Engineers co-creating on-site, validated against real materials and real workflows |
+| Agent Customization | Business agents built on AgentScope: sales assistants, knowledge Q&A, process orchestration and operations analysis; OpenAPI and MCP integration with your own systems |
+| AI-Native Engineering & Training | An artifact-chain, gate and metrics framework that makes AI output reproducible and verifiable; tiered training from executive briefings to practitioner bootcamps |
+| Cloud & Managed IT | Cloud architecture design and migration, SaaS delivery and on-premise deployment, managed operations and continuous upgrades |
+
+## Industry Application: Offline Resource Digitalization Platform
+
+**Offline resource digitalization platform for out-of-home (OOH) media** covering the full campaign lifecycle — inventory, order placement, dispatch and posting, completion reporting — plus back-office capabilities for client operations, cross-department work orders, financial settlement and HR attendance, with a PC admin console and a mobile field-work app working in tandem.
 
 | Module | Scope |
 |---|---|
@@ -84,7 +108,7 @@ XOMAPS covers the full OOH campaign lifecycle — inventory, order placement, di
 - **Frontend**: Vue 3 + TypeScript
 - **Open Integration**: OpenAPI and MCP protocol — AI clients can query inventory and schedules directly
 - **WeCom Integration**: org structure sync, attendance data source, task & work-order notifications
-- **Deployment**: SaaS (multi-tenant) or on-premise (data stays inside the intranet)
+- **Delivery**: SaaS (multi-tenant) or on-premise (data stays inside the intranet)
 
 ## Scope Boundaries
 
@@ -108,6 +132,6 @@ Engineering practice, architecture and governance notes live at [blog.omaps.cn](
 
 ## Contact
 
-- Website / book a demo: <https://www.omaps.cn>
-- Sales: sales@omaps.cn
+- Website / book a consultation: <https://www.xomaps.com>
+- Sales: sales@xomaps.com
 - Address: Banghua Plaza, 1 Jinsui Road, Tianhe District, Guangzhou, China
