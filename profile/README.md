@@ -1,12 +1,21 @@
-# 麦朴科技（Xomaps）
+# 信朴（Xomaps）
 
-[中文](#麦朴科技omaps) · [English](#english) · [官网](https://www.xomaps.com) · [技术博客](https://blog.omaps.cn)
+[中文](#信朴omaps) · [English](#english) · [官网](https://www.xomaps.com) · [技术博客](https://blog.omaps.cn)
 
 **AI + Cloud 生态公司**
 
-**Xomaps = eXpansion + Orbit + Maps**：X 代表突破，也代表无限可能；O 代表周期沉淀的循环；Maps 代表成长路径。麦，是时序生长、周期沉淀；朴，是守持本源、向外打开无限可能——我们相信真正的成长，是扎根蓄力之后，持续迭代，奔赴无限可能。麦朴科技 Xomaps，循周期生长，向边界拓展。
+**Xomaps = eXpansion + Orbit + Maps**：X 代表突破，也代表无限可能；O 代表周期沉淀的循环，信守如期兑现的承诺；Maps 代表成长路径，尊重每家企业的脉络。**内核：信为本，朴为根**——言出必行，值得托付；回归本质，删繁就简。**信朴 Xomaps，信朴筑路，循拓致远。**
 
-麦朴科技（Xomaps）以自研软件平台为底座，围绕企业 AI 落地提供场景诊断、Agent 定制、AI 原生研发与培训、云与托管 IT 服务——既是平台厂商，也是 AI 落地的亲历者：先在自己身上完成 AI Native 转型，平台与 Agent 在真实业务中每天生产运行。多年企业内部信息化建设经验、自研 AI 中台（AgentScope 运行时 + 企业知识库 + MCP 开放网关）与渐进式升级路径设计，是我们区别于纯咨询培训机构的根本。中英双语服务全球客户，官网 [www.xomaps.com](https://www.xomaps.com)。
+**企业文化**
+
+| 项 | 内容 |
+|---|---|
+| 使命 | 以可信的工程能力贯穿业务全链路，让企业业务资产持续沉淀、自主演进 |
+| 愿景 | 成为企业可托付、与业务共生长的全链路伙伴 |
+| 价值观 | 信｜言出必行，值得托付 · 朴｜回归本质，删繁就简 · 循｜闭环沉淀，持续打磨 · 拓｜向下扎根，向外拓界 · 路｜尊重脉络，自成路径 |
+| 行为准则 | 工程优先，理性用智 · 开放协作，长期迭代 · 审慎落地，风险可控 |
+
+信朴（Xomaps）自研线下资源数字化管理平台，并围绕企业 AI 落地提供场景诊断、Agent 定制、AI 原生研发与培训、云与托管 IT 服务——既是平台厂商，也是 AI 落地的亲历者：先在自己身上完成 AI Native 转型，平台与 Agent 在真实业务中每天生产运行。多年企业内部信息化建设经验、自研 AI 中台（AgentScope 运行时 + 企业知识库 + MCP 开放网关）与渐进式升级路径设计，是我们区别于纯咨询培训机构的根本。中英双语服务全球客户，官网 [www.xomaps.com](https://www.xomaps.com)。
 
 ## 业务方向
 
@@ -73,11 +82,20 @@
 
 # Xomaps Technology
 
-[中文](#麦朴科技omaps) · **English** · [Website](https://www.xomaps.com) · [Tech Blog](https://blog.omaps.cn)
+[中文](#信朴omaps) · **English** · [Website](https://www.xomaps.com) · [Tech Blog](https://blog.omaps.cn)
 
 **AI + Cloud ecosystem company**
 
-**Xomaps = eXpansion + Orbit + Maps**: X stands for breakthrough — and infinite possibility; O for the cycle of grounding and reflection; Maps for the growth path. We believe real growth means rooting deeply, then iterating constantly toward the infinite. 麦朴科技 Xomaps — grow with the seasons, expand beyond the edge.
+**Xomaps = eXpansion + Orbit + Maps**: X stands for breakthrough — and infinite possibility; O for cycles of grounding where promises are kept on time; Maps for paths that respect each company's own context. **Our core: Trust as the root, simplicity as the ground** — do what we say and be worth entrusting; return to essentials and cut complexity. **Xomaps builds the road with trust and simplicity, and goes far through cycles and expansion.**
+
+**Culture**
+
+| Item | Content |
+|---|---|
+| Mission | Run trustworthy engineering through the full business chain, so enterprise assets keep compounding and evolving on their own |
+| Vision | Be the full-chain partner enterprises can entrust and grow with |
+| Values | Trust: do what we say, be worth entrusting · Simplicity: back to essentials, cut complexity · Cycle: close loops, keep polishing · Expansion: root downward, reach outward · Path: respect context, no one-size-fits-all |
+| Principles | Engineering first, reason with restraint · Open collaboration, long-term iteration · Prudent delivery, controlled risk |
 
 Xomaps Technology builds its own software platform and surrounds it with enterprise AI landing services: scenario diagnosis, Agent customization, AI-native engineering enablement, and cloud & managed IT — we are both a platform vendor and a hands-on AI adopter: we completed our own AI-native transformation first, with the platform and agents running in production on our real business every day. Years of in-house enterprise IT experience, a self-built AI middle platform (AgentScope runtime + enterprise knowledge base + MCP open gateway) and incremental upgrade-path design set us apart from pure consultancies and training vendors. Serving clients worldwide in English and Chinese via [www.xomaps.com](https://www.xomaps.com).
 
