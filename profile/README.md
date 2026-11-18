@@ -99,6 +99,8 @@
 | Values | Trust: do what we say, be worth entrusting · Simplicity: back to essentials, cut complexity · Cycle: close loops, keep polishing · Expansion: root downward, reach outward · Path: respect context, no one-size-fits-all |
 | Principles | Engineering first, reason with restraint · Open collaboration, long-term iteration · Prudent delivery, controlled risk |
 
+![Xomaps Culture Wall](assets/xinpu-culture-wall-en.svg)
+
 Xomaps Technology builds its own software platform and surrounds it with enterprise AI landing services: scenario diagnosis, Agent customization, AI-native engineering enablement, and cloud & managed IT — we are both a platform vendor and a hands-on AI adopter: we completed our own AI-native transformation first, with the platform and agents running in production on our real business every day. Years of in-house enterprise IT experience, a self-built AI middle platform (AgentScope runtime + enterprise knowledge base + MCP open gateway) and incremental upgrade-path design set us apart from pure consultancies and training vendors. Serving clients worldwide in English and Chinese via [www.xomaps.com](https://www.xomaps.com).
 
 ## Service Directions
