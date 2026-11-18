@@ -23,13 +23,15 @@
 
 | 方向 | 内容 |
 |---|---|
-| 行业应用 | 线下资源数字化管理平台（自研），从户外媒体（OOH）行业起家：地图选点、排期锁定、派单上刊、完工报告全流程，业务、财务与人力一体化，SaaS 与私有化双形态交付 |
+| 行业应用 | 线下资源数字化管理平台（自研）。**户外媒体（OOH）只是第一个落地行业，不是行业专用系统**：地图选点、排期锁定、派单上刊、完工报告全流程，业务、财务与人力一体化，SaaS 与私有化双形态交付；「资源—任务—结算」底座可复用到广告安装、工程巡检、连锁门店检核等任何需要派人到线下物理点位作业的行业 |
 | 企业 AI 落地 | 以「企业上下文 + 场景闸门」识别高价值场景，Forward-Deployed Engineers（FDE，前置驻场工程师）现场共创，用真实材料与真实流程验证结果 |
 | Agent 定制 | 基于 AgentScope 打造业务 Agent：销售助理、知识问答、流程协同与运营分析；OpenAPI 与 MCP 接入企业自有系统 |
 | AI 原生研发与培训 | 产物链、门禁与度量的工程化方法，让 AI 产出可复现、可验收；从高管认知到骨干实操的分层培训 |
 | 云与托管 IT | 云架构设计与迁移、SaaS 交付与私有化部署、托管运维与持续升级 |
 
 ## 行业应用：线下资源数字化管理平台
+
+平台定位是**通用的线下资源数字化底座**：管理线下资源、调度人员到物理点位作业、并把业务与结算跑通——任何符合这个模式的行业都能长在上面。户外媒体（OOH）是我们当前深耕最深、验证最完整的第一个行业。
 
 **线下资源数字化管理平台**，覆盖点位资源、订单投放、派单上刊、完工报告（行业标准称 Proof of Performance，POP，上刊验收报告）全流程，并提供客户经营、协作工单、财务结算与人力考勤等中后台能力，PC 管理后台与移动端现场作业双端协同。
 
@@ -105,13 +107,15 @@ Xomaps Technology builds its own software platform and surrounds it with enterpr
 
 | Direction | Scope |
 |---|---|
-| Industry Application | Offline resource digitalization platform (self-developed), born in the out-of-home (OOH) industry: map-based site selection, schedule locking, dispatch & posting, and completion reporting with auto-generated PPT reports and GPS-watermarked photos; CRM, finance and HR built in; delivered as SaaS or on-premise |
+| Industry Application | Offline resource digitalization platform (self-developed). **Out-of-home (OOH) is our first vertical, not an OOH-only system**: map-based site selection, schedule locking, dispatch & posting, and completion reporting with auto-generated PPT reports and GPS-watermarked photos; CRM, finance and HR built in; delivered as SaaS or on-premise. The resource–task–settlement backbone reuses directly to any industry that dispatches people to physical sites — signage installation, engineering inspection, chain-store audits and beyond |
 | Enterprise AI Landing | Identifying high-value scenarios through "organizational context + scenario gates", with Forward-Deployed Engineers (FDE) co-creating on-site, validated against real materials and real workflows |
 | Agent Customization | Business agents built on AgentScope: sales assistants, knowledge Q&A, process orchestration and operations analysis; OpenAPI and MCP integration with your own systems |
 | AI-Native Engineering & Training | An artifact-chain, gate and metrics framework that makes AI output reproducible and verifiable; tiered training from executive briefings to practitioner bootcamps |
 | Cloud & Managed IT | Cloud architecture design and migration, SaaS delivery and on-premise deployment, managed operations and continuous upgrades |
 
 ## Industry Application: Offline Resource Digitalization Platform
+
+The platform is a **general-purpose backbone for offline resource digitalization**: manage physical resources, dispatch people to physical sites, and run the business through to settlement — any industry fitting that pattern can grow on it. Out-of-home (OOH) media is the first vertical where we run deepest and have validated the model end to end.
 
 **Offline resource digitalization platform for out-of-home (OOH) media** covering the full campaign lifecycle — inventory, order placement, dispatch and posting, completion reporting (Proof of Performance, POP, the industry-standard post-campaign acceptance report) — plus back-office capabilities for client operations, cross-department work orders, financial settlement and HR attendance, with a PC admin console and a mobile field-work app working in tandem.
 
