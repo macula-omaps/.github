@@ -1,10 +1,10 @@
-# 信朴（Xomaps）
+# 信朴科技（Xomaps）
 
-[中文](#信朴omaps) · [English](#english) · [官网](https://www.xomaps.com) · [技术博客](https://blog.omaps.cn)
+[中文](#信朴科技omaps) · [English](#english) · [官网](https://www.xomaps.com) · [技术博客](https://blog.omaps.cn)
 
 **AI + Cloud 生态公司**
 
-**Xomaps = eXpansion + Orbit + Maps**：X 代表突破，也代表无限可能；O 代表周期沉淀的循环，信守如期兑现的承诺；Maps 代表成长路径，尊重每家企业的脉络。**内核：信为本，朴为根**——言出必行，值得托付；回归本质，删繁就简。**信朴 Xomaps，信朴筑路，循拓致远。**
+**Xomaps = eXpansion + Orbit + Maps**：X 代表突破，也代表无限可能；O 代表周期沉淀的循环，信守如期兑现的承诺；Maps 代表成长路径，尊重每家企业的脉络。**内核：信为本，朴为根**——言出必行，值得托付；回归本质，删繁就简。**信朴科技 Xomaps，信朴筑路，循拓致远。**
 
 **企业文化**
 
@@ -15,7 +15,7 @@
 | 价值观 | 信｜言出必行，值得托付 · 朴｜回归本质，删繁就简 · 循｜闭环沉淀，持续打磨 · 拓｜向下扎根，向外拓界 · 路｜尊重脉络，自成路径 |
 | 行为准则 | 工程优先，理性用智 · 开放协作，长期迭代 · 审慎落地，风险可控 |
 
-信朴（Xomaps）自研线下资源数字化管理平台，并围绕企业 AI 落地提供场景诊断、Agent 定制、AI 原生研发与培训、云与托管 IT 服务——既是平台厂商，也是 AI 落地的亲历者：先在自己身上完成 AI Native 转型，平台与 Agent 在真实业务中每天生产运行。多年企业内部信息化建设经验、自研 AI 中台（AgentScope 运行时 + 企业知识库 + MCP 开放网关）与渐进式升级路径设计，是我们区别于纯咨询培训机构的根本。中英双语服务全球客户，官网 [www.xomaps.com](https://www.xomaps.com)。
+信朴科技（Xomaps）自研线下资源数字化管理平台，并围绕企业 AI 落地提供场景诊断、Agent 定制、AI 原生研发与培训、云与托管 IT 服务——既是平台厂商，也是 AI 落地的亲历者：先在自己身上完成 AI Native 转型，平台与 Agent 在真实业务中每天生产运行。多年企业内部信息化建设经验、自研 AI 中台（AgentScope 运行时 + 企业知识库 + MCP 开放网关）与渐进式升级路径设计，是我们区别于纯咨询培训机构的根本。中英双语服务全球客户，官网 [www.xomaps.com](https://www.xomaps.com)。
 
 ## 业务方向
 
@@ -82,7 +82,7 @@
 
 # Xomaps Technology
 
-[中文](#信朴omaps) · **English** · [Website](https://www.xomaps.com) · [Tech Blog](https://blog.omaps.cn)
+[中文](#信朴科技omaps) · **English** · [Website](https://www.xomaps.com) · [Tech Blog](https://blog.omaps.cn)
 
 **AI + Cloud ecosystem company**
 
