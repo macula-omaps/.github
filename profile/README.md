@@ -46,7 +46,7 @@
 
 ## 工程
 
-- **后端**：Java + Spring Boot 多模块，CQRS 命令通道（60+ 资源收口）、多租户数据隔离、对象级访问控制
+- **后端**：Java + Spring Boot 多模块，CQS 写侧收口：60+ 资源的写入口统一收敛为 Command Handler（读侧走常规查询模型，未做读写分库）、多租户数据隔离、对象级访问控制
 - **前端**：Vue 3 + TypeScript
 - **开放接入**：OpenAPI 接口与 MCP 协议，AI 客户端可直接调用点位与排期查询
 - **企业微信集成**：组织架构同步、打卡数据源、任务与工单通知
@@ -130,7 +130,7 @@ The platform is a **general-purpose backbone for offline resource digitalization
 
 ## Engineering
 
-- **Backend**: Java + Spring Boot multi-module, CQRS command pipeline (60+ resources consolidated), multi-tenant data isolation, object-level access control
+- **Backend**: Java + Spring Boot multi-module; CQS-style write-side consolidation — write endpoints of 60+ resources unified into Command Handlers (reads go through the regular query model, no separate read store); multi-tenant data isolation, object-level access control
 - **Frontend**: Vue 3 + TypeScript
 - **Open Integration**: OpenAPI and MCP protocol — AI clients can query inventory and schedules directly
 - **WeCom Integration**: org structure sync, attendance data source, task & work-order notifications
