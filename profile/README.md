@@ -24,25 +24,23 @@
 | 方向 | 内容 |
 |---|---|
 | 行业应用 | 线下资源数字化管理平台（自研），从户外媒体（OOH）行业起家：地图选点、排期锁定、派单上刊、完工报告全流程，业务、财务与人力一体化，SaaS 与私有化双形态交付 |
-| 企业 AI 落地 | 以「企业上下文 + 场景闸门」识别高价值场景，FDE 现场共创，用真实材料与真实流程验证结果 |
+| 企业 AI 落地 | 以「企业上下文 + 场景闸门」识别高价值场景，Forward-Deployed Engineers（FDE，前置驻场工程师）现场共创，用真实材料与真实流程验证结果 |
 | Agent 定制 | 基于 AgentScope 打造业务 Agent：销售助理、知识问答、流程协同与运营分析；OpenAPI 与 MCP 接入企业自有系统 |
 | AI 原生研发与培训 | 产物链、门禁与度量的工程化方法，让 AI 产出可复现、可验收；从高管认知到骨干实操的分层培训 |
 | 云与托管 IT | 云架构设计与迁移、SaaS 交付与私有化部署、托管运维与持续升级 |
 
 ## 行业应用：线下资源数字化管理平台
 
-**线下资源数字化管理平台**，覆盖点位资源、订单投放、派单上刊、完工报告全流程，并提供客户经营、协作工单、财务结算与人力考勤等中后台能力，PC 管理后台与移动端现场作业双端协同。
+**线下资源数字化管理平台**，覆盖点位资源、订单投放、派单上刊、完工报告（行业标准称 Proof of Performance，POP，上刊验收报告）全流程，并提供客户经营、协作工单、财务结算与人力考勤等中后台能力，PC 管理后台与移动端现场作业双端协同。
 
-| 模块 | 内容 |
+| 模块 | 摘要 |
 |---|---|
-| 点位与地图 | 经纬度落位、空位按区域/规格/档期高亮、框选片区算容量、点位包成组上地图、实景照片挂到点位 |
-| 投放流程 | 选点 → 锁点（排期锁定防撞单）→ 派单上刊 → 完工报告（自动生成 PPT 并打包原图）；LED 数字屏支持全量轮播清单按版本整体下发到租户自接的播控系统 |
-| 客户经营 | 客户报备（撞单保护、有效期占用与到期释放）、公海池、客户跟进记录、商机跟进、销售业绩季度聚合与月环比/年同比 |
-| 业务中台 | 协作工单（跨部门发起→受理→完成→关闭，SLA 超时扫描与看板）、销售与采购合同、合同变更单、提成规则配置、统一审核中心、经营报表 |
-| 财务结算 | 请款与逾期标记、到款与划拨、发票、提成核算、客户对账、会计期间与结转 |
-| 人力管理 | 组织架构、员工档案（入职登记、离职/调动流程）、班次模板与月度排班（排班×派单联动）、考勤打卡与月报、保险台账 |
-| 移动端作业 | 微信小程序 / 独立 App：任务接收、GPS 签到、拍照水印、断网补传、考勤打卡（定位+围栏+补卡）、任务到期提醒 |
+| 投放主线 | 地图选点 → 排期锁定（防撞单）→ 派单上刊 → 完工报告（自动生成 PPT 并打包原图） |
+| 客户与中后台 | 客户报备（撞单保护）/ 公海池 / 商机、协作工单（SLA 看板）、销售与采购合同、提成规则、请款到款发票对账、组织人事与排班考勤 |
+| 移动端作业 | 微信小程序 / 独立 App：任务接收、GPS 签到、拍照水印、断网补传、围栏考勤、任务到期提醒 |
 | AI Copilot | 基于 AgentScope 的销售助理：查可投点位、按预算拆组合、生成投放方案、口述拜访转记录 |
+
+> 完整模块清单与字段级功能说明见官网产品页；LED 数字屏的播控衔接边界见下文「能力边界」。
 
 ## 工程
 
@@ -96,7 +94,7 @@
 |---|---|
 | Mission | Run trustworthy engineering through the full business chain, so enterprise assets keep compounding and evolving on their own |
 | Vision | Be the full-chain partner enterprises can entrust and grow with |
-| Values | Trust: do what we say, be worth entrusting · Simplicity: back to essentials, cut complexity · Cycle: close loops, keep polishing · Expansion: root downward, reach outward · Path: respect context, no one-size-fits-all |
+| Values | Integrity（信）: do what we say, be worth entrusting · Simplicity（朴）: back to essentials, cut complexity · Momentum（循）: close loops, keep polishing · Expansion（拓）: root downward, reach outward · Path（路）: respect context, no one-size-fits-all |
 | Principles | Engineering first, reason with restraint · Open collaboration, long-term iteration · Prudent delivery, controlled risk |
 
 ![Xomaps Culture Wall](assets/xinpu-culture-wall-en.svg)
@@ -107,26 +105,24 @@ Xomaps Technology builds its own software platform and surrounds it with enterpr
 
 | Direction | Scope |
 |---|---|
-| Industry Application | Offline resource digitalization platform (self-developed), born in the out-of-home (OOH) industry: map-based site selection, schedule locking, dispatch & posting, completion reporting, with CRM, finance and HR built in; delivered as SaaS or on-premise |
-| Enterprise AI Landing | Identifying high-value scenarios through "organizational context + scenario gates", with Forward-Deployed Engineers co-creating on-site, validated against real materials and real workflows |
+| Industry Application | Offline resource digitalization platform (self-developed), born in the out-of-home (OOH) industry: map-based site selection, schedule locking, dispatch & posting, and completion reporting with auto-generated PPT reports and GPS-watermarked photos; CRM, finance and HR built in; delivered as SaaS or on-premise |
+| Enterprise AI Landing | Identifying high-value scenarios through "organizational context + scenario gates", with Forward-Deployed Engineers (FDE) co-creating on-site, validated against real materials and real workflows |
 | Agent Customization | Business agents built on AgentScope: sales assistants, knowledge Q&A, process orchestration and operations analysis; OpenAPI and MCP integration with your own systems |
 | AI-Native Engineering & Training | An artifact-chain, gate and metrics framework that makes AI output reproducible and verifiable; tiered training from executive briefings to practitioner bootcamps |
 | Cloud & Managed IT | Cloud architecture design and migration, SaaS delivery and on-premise deployment, managed operations and continuous upgrades |
 
 ## Industry Application: Offline Resource Digitalization Platform
 
-**Offline resource digitalization platform for out-of-home (OOH) media** covering the full campaign lifecycle — inventory, order placement, dispatch and posting, completion reporting — plus back-office capabilities for client operations, cross-department work orders, financial settlement and HR attendance, with a PC admin console and a mobile field-work app working in tandem.
+**Offline resource digitalization platform for out-of-home (OOH) media** covering the full campaign lifecycle — inventory, order placement, dispatch and posting, completion reporting (Proof of Performance, POP, the industry-standard post-campaign acceptance report) — plus back-office capabilities for client operations, cross-department work orders, financial settlement and HR attendance, with a PC admin console and a mobile field-work app working in tandem.
 
-| Module | Scope |
+| Module | Summary |
 |---|---|
-| Inventory & Map | Geocoded inventory placement, slot availability highlighted by region/spec/availability window, area selection with capacity estimation, inventory bundles grouped on map, site photos attached to inventory records |
-| Campaign Workflow | Site selection → slot locking (schedule locks prevent double-booking) → dispatch & posting → completion report (auto-generated PPT with original photos packaged); LED digital screens support versioned full-manifest delivery to the tenant's own broadcast control system |
-| Client Operations | Client registration (conflict protection, validity windows with release on expiry), public pool, client follow-up records, opportunity tracking, sales performance with quarterly aggregation and month-over-month / year-over-year comparison |
-| Business Middle Platform | Cross-department work orders (initiate → accept → complete → close, with SLA timeout scanning and kanban), sales & procurement contracts, contract change orders, commission rule configuration, unified approval center, business reports |
-| Financial Settlement | Payment requests & overdue flags, receipts & allocation, invoices, commission calculation, client reconciliation, accounting periods & carry-forward |
-| Human Resources | Org structure, employee records (onboarding, offboarding & transfer workflows), shift templates & monthly scheduling (linked with dispatch), attendance check-in & monthly reports, insurance ledger |
-| Mobile Field Work | WeChat mini program / standalone app: task receipt, GPS check-in, photo watermarking, offline capture with later sync, attendance check-in (location + geofence + makeup), task due reminders |
+| Campaign Mainline | Map-based site selection → schedule locking (double-booking protection) → dispatch & posting → completion report (auto-generated PPT with original photos packaged) |
+| Clients & Back Office | Conflict-protected client registration / public pool / opportunities; cross-department work orders (SLA kanban); sales & procurement contracts; commission rules; payment requests, receipts, invoices & reconciliation; org, scheduling & attendance |
+| Mobile Field Work | WeChat mini program / standalone app: task receipt, GPS check-in, photo watermarking, offline capture with later sync, geofenced attendance, task due reminders |
 | AI Copilot | AgentScope-based sales assistant: find available inventory, build packages by budget, generate campaign proposals, turn spoken visit notes into records |
+
+> The full module list and field-level specs live on the product pages of our website; the DOOH broadcast-control boundary is detailed in "Scope Boundaries" below.
 
 ## Engineering
 
@@ -140,7 +136,7 @@ Xomaps Technology builds its own software platform and surrounds it with enterpr
 
 Where we don't fit, stated up front to save everyone a round of evaluation:
 
-- **Static OOH media first** (billboards, bus shelters, light boxes, gate barriers, wall panels). For LED digital screens we provide a **broadcast-control bridge layer**: inventory assets, scheduling, screen-level capacity checks, and delivery commands — once a campaign is approved, the full program manifest is pushed as a versioned whole to the tenant's own broadcast control system (cloud bridge / intranet bridge). **No broadcast engine or direct screen control** (screens and control accounts stay with the tenant); play proof in v1 relies on manual acceptance, and **no SSP/DSP programmatic trading integration**.
+- **Static OOH media first** (billboards, bus shelters, light boxes, gate barriers, wall panels). For digital OOH (DOOH) screens we provide a **broadcast-control bridge layer**: inventory assets, scheduling, screen-level capacity checks, and delivery commands — once a campaign is approved, the full program manifest is pushed as a versioned whole to the tenant's own broadcast control system (cloud bridge / intranet bridge). **No broadcast engine or direct screen control** (screens and control accounts stay with the tenant); proof of performance (POP) in v1 relies on manual acceptance, and **no SSP/DSP programmatic trading integration**.
 - **No AI photo QA**: whether a photo shows a mis-post, occlusion, or a re-shot board is judged by time/location watermarks, GPS positioning, and human review.
 - **Single-tier commission** (allocated amount × rate); multi-tier ladders, cross-project splitting, and consolidated group reporting fall under custom evaluation.
 
