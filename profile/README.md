@@ -2,7 +2,7 @@
 
 [中文](#信朴科技omaps) · [English](#english) · [官网](https://www.xomaps.com) · [技术博客](https://blog.omaps.cn)
 
-**AI + Cloud 生态公司**
+**以自研底座为支撑的企业 AI 落地服务商**
 
 **Xomaps = eXpansion + Orbit + Maps**：X 代表突破，也代表无限可能；O 代表周期沉淀的循环，信守如期兑现的承诺；Maps 代表成长路径，尊重每家企业的脉络。**内核：信为本，朴为根**——言出必行，值得托付；回归本质，删繁就简。**信朴科技 Xomaps，信朴筑路，循拓致远。**
 
@@ -17,7 +17,7 @@
 
 ![信朴 Xomaps 企业文化墙](assets/xinpu-culture-wall.svg)
 
-信朴科技（Xomaps）围绕企业 AI 落地提供场景诊断、Agent 定制、AI 原生研发与培训、云与托管 IT 服务——AI 落地的亲历者：先在自己身上完成 AI Native 转型，自研业务系统与 Agent 在真实业务中每天生产运行。多年企业内部信息化建设经验、自研 AI 中台（AgentScope 运行时 + 企业知识库 + MCP 开放网关）与渐进式升级路径设计，是我们区别于纯咨询培训机构的根本。中英双语服务全球客户，官网 [www.xomaps.com](https://www.xomaps.com)。
+信朴科技（Xomaps）是一家以自研底座为支撑的企业 AI 落地服务商——AI 落地的亲历者：先在自己身上完成 AI Native 转型，自研业务系统与 Agent 在真实业务中每天生产运行，用自己跑通的系统为客户交付确定性。围绕企业 AI 落地提供场景诊断、Agent 定制、AI 原生研发与培训、云与托管 IT 服务。多年企业内部信息化建设经验、自研 AI 中台（AgentScope 运行时 + 企业知识库 + MCP 开放网关）与渐进式升级路径设计，是我们区别于纯咨询培训机构的根本。中英双语服务全球客户，官网 [www.xomaps.com](https://www.xomaps.com)。
 
 ## 业务方向
 
@@ -54,7 +54,7 @@
 
 [中文](#信朴科技omaps) · **English** · [Website](https://www.xomaps.com) · [Tech Blog](https://blog.omaps.cn)
 
-**AI + Cloud ecosystem company**
+**An enterprise AI landing service provider built on self-developed foundations**
 
 **Xomaps = eXpansion + Orbit + Maps**: X stands for breakthrough — and infinite possibility; O for cycles of grounding where promises are kept on time; Maps for paths that respect each company's own context. **Our core: Trust as the root, simplicity as the ground** — do what we say and be worth entrusting; return to essentials and cut complexity. **Xomaps builds the road with trust and simplicity, and goes far through cycles and expansion.**
 
@@ -69,7 +69,7 @@
 
 ![Xomaps Culture Wall](assets/xinpu-culture-wall-en.svg)
 
-Xomaps Technology delivers enterprise AI landing services: scenario diagnosis, Agent customization, AI-native engineering enablement, and cloud & managed IT — we are hands-on AI adopters: we completed our own AI-native transformation first, with self-developed business systems and agents running in production on our real business every day. Years of in-house enterprise IT experience, a self-built AI middle platform (AgentScope runtime + enterprise knowledge base + MCP open gateway) and incremental upgrade-path design set us apart from pure consultancies and training vendors. Serving clients worldwide in English and Chinese via [www.xomaps.com](https://www.xomaps.com).
+Xomaps Technology is an enterprise AI landing service provider built on self-developed foundations — we are hands-on AI adopters: we completed our own AI-native transformation first, with self-developed business systems and agents running in production on our real business every day, delivering to clients the certainty of systems we run ourselves. We provide enterprise AI landing services: scenario diagnosis, Agent customization, AI-native engineering enablement, and cloud & managed IT. Years of in-house enterprise IT experience, a self-built AI middle platform (AgentScope runtime + enterprise knowledge base + MCP open gateway) and incremental upgrade-path design set us apart from pure consultancies and training vendors. Serving clients worldwide in English and Chinese via [www.xomaps.com](https://www.xomaps.com).
 
 ## Service Directions
 
