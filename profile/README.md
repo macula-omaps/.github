@@ -32,6 +32,9 @@
 
 工程实践、架构与治理文档发在 [blog.omaps.cn](https://blog.omaps.cn)：
 
+- [数字员工生产落地案例：节点、账号与退回机制](https://blog.omaps.cn/post/digital-worker-as-process-node/)（2026-11-20）
+- [从文字到语音：办公信息的载体升级与 AI 的全景理解](https://blog.omaps.cn/post/voice-office-carrier-upgrade/)（2026-11-20）
+- [归因完成不等于解决：AI 归因、组织上下文与低成本绕行](https://blog.omaps.cn/post/attribution-is-not-resolution/)（2026-11-20）
 - [一个 AI 项目的困局，与 AI 无关：并发、排队与错位的三个月](https://blog.omaps.cn/post/ai-app-project-retrospective/)（2026-11-15）
 - [AI 不可替代的：面向客户的主营业务流程与落地引擎](https://blog.omaps.cn/post/customer-centric-workflow-engine/)（2026-11-15）
 - [IT托管服务的升级：AI时代中小企业IT的新选择](https://blog.omaps.cn/post/shared-it-ai-era/)（2026-11-14）
@@ -84,6 +87,9 @@ Xomaps Technology is an enterprise AI landing service provider built on self-dev
 
 Engineering practice, architecture and governance notes live at [blog.omaps.cn](https://blog.omaps.cn):
 
+- [A Digital Worker in Production: Nodes, Accounts, and Rollback Mechanisms](https://blog.omaps.cn/en/post/digital-worker-as-process-node/) (2026-11-20)
+- [From Text to Voice: The Carrier Upgrade of Office Information and AI's Full-Picture Understanding](https://blog.omaps.cn/en/post/voice-office-carrier-upgrade/) (2026-11-20)
+- [Attribution Is Not Resolution: AI Diagnosis, Organizational Context, and a Low-Cost Bypass](https://blog.omaps.cn/en/post/attribution-is-not-resolution/) (2026-11-20)
 - [The Trouble with This AI Project Had Nothing to Do with AI: Concurrency, Queuing, and Three Months of Misalignment](https://blog.omaps.cn/en/post/ai-app-project-retrospective/) (2026-11-15)
 - [What AI Cannot Replace: Customer-Facing Core Business Workflows and the Delivery Engine](https://blog.omaps.cn/en/post/customer-centric-workflow-engine/) (2026-11-15)
 - [The Upgrade of Managed IT Services: A New Option for SMB IT in the AI Era](https://blog.omaps.cn/en/post/shared-it-ai-era/) (2026-11-14)
